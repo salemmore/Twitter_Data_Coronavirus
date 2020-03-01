@@ -1,11 +1,11 @@
 import tweepy
 import pandas
 import numpy as np
-from sklearn import datasets
 import csv
-from collections import Counter
 import ast
 import codecs
+from collections import Counter
+from sklearn import datasets
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
