@@ -14,10 +14,10 @@ This application uses Twitter Data (i.e. specifically tweets and user profile or
 * Number of tweets collected. Anything > 5000 takes a significant time to process. 
 * Only tweets in English were analysed this is because only one language at a time can be processed. There might be a tweepy functionality that supports multiple languages in a query but I could not find it. 
 * Still a lot of cleaning of the data needs to be done like removing Retweets and multiple occurrances of the same tweet (maybe a bot produced these).
-* The word "coronavirus" is actually a generic term and that is why you will still see tweets from people even before December 2019. So it is not conclusive to say that tweets after December 1st 2019 are all related to the COVID-19 outbreak and not any of the other coronaviruses such as SARS-CoV (2003) and MERS-CoV (2012). 
+* The word "coronavirus" is actually a generic term and that is why you will still see tweets from people even before December 2019. So it is not conclusive to say that tweets after December 1st 2019 are all related to the COVID-19 outbreak and not any of the other coronaviruses such as SARS-CoV (2003) and [MERS-CoV (2012)](https://www.who.int/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov) )
 
 ## Resources
 For Mapping - Python Geopy Library Documentation https://readthedocs.org/projects/geopy/downloads/pdf/latest/
 Getting started with Twitter Data Analysis - Tweepy Basics - https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/
 An incredibly good, detailed and advanced example of a similar project https://github.com/globalcitizen/2019-wuhan-coronavirus-data
-https://www.who.int/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov) b\footnote{\texttt{dust} codebase: \url{https://github.com/eblur/dust}.}
+
