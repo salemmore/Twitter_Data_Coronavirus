@@ -24,11 +24,11 @@ The number and location of confirmed cases are shown in this map produced by The
 There is a correlation with some descrepancy in the number and location fo people talking about the coronavirus and the actually cases/occurances of it. Now, it is important to note that we see this correlation predominately in the countries that have English as one of their main languages. If more languages such as Chinese, Portuguese, French, Russian, Arabic and so on where integrated into the application then places like China, Brazil, France, Russia and Iran will "light up"  respectively. 
 
 ## Resources
-For Mapping - [Python Geopy Library Documentation](https://readthedocs.org/projects/geopy/downloads/pdf/latest/)
-Getting started with Twitter Data Analysis - [Tweepy Basics Example](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
-An incredibly good, detailed and advanced example of a similar project [here](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
-Twitter query parameters [here](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets)
-Streaming Twitter Data for more recent results [here](https://www.dataquest.io/blog/streaming-data-python/) and [more](https://books.google.co.uk/books?id=YBKSDwAAQBAJ&pg=PA121&lpg=PA121&dq=python+mystreamer+class&source=bl&ots=bJcGzNzquN&sig=ACfU3U2WGfXAIvJmXXm4GvAIcsqCwas8Qw&hl=en&sa=X&ved=2ahUKEwiY1v69uPbnAhUBonEKHexABu0Q6AEwA3oECAkQAQ#v=onepage&q=python%20mystreamer%20class&f=false)
-[More examples](https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/) relating to scraping 
+* For Mapping - [Python Geopy Library Documentation](https://readthedocs.org/projects/geopy/downloads/pdf/latest/)
+* Getting started with Twitter Data Analysis - [Tweepy Basics Example](https://www.earthdatascience.org/courses/earth-analytics-python/using-apis-natural-language-processing-twitter/get-and-use-twitter-data-in-python/)
+* An incredibly good, detailed and advanced example of a similar project [here](https://github.com/globalcitizen/2019-wuhan-coronavirus-data)
+* Twitter query parameters [here](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets)
+* Streaming Twitter Data for more recent results [here](https://www.dataquest.io/blog/streaming-data-python/) and [more](https://books.google.co.uk/books?id=YBKSDwAAQBAJ&pg=PA121&lpg=PA121&dq=python+mystreamer+class&source=bl&ots=bJcGzNzquN&sig=ACfU3U2WGfXAIvJmXXm4GvAIcsqCwas8Qw&hl=en&sa=X&ved=2ahUKEwiY1v69uPbnAhUBonEKHexABu0Q6AEwA3oECAkQAQ#v=onepage&q=python%20mystreamer%20class&f=false)
+* [More examples](https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/) relating to scraping 
 
 
