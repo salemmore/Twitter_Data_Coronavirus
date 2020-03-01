@@ -3,7 +3,7 @@ This application uses Twitter Data (i.e. specifically tweets and user profile or
 
 ![image](https://user-images.githubusercontent.com/17982289/75628863-d0a6ad00-5bd4-11ea-9ec1-57cac899852f.png)
 
-The number and location of confirmed cases are shown here. For the latest results see https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html. 
+The number and location of confirmed cases are shown in this map produced by The Center for Systems Science and Engineering at Johns Hopkins University. For the latest results see https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html. 
 ![image](https://user-images.githubusercontent.com/17982289/75635617-6fe89600-5c0f-11ea-9859-1e2120c04cbf.png)
 
 
