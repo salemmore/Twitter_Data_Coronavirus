@@ -1,14 +1,17 @@
+# Some of these packages are not necessary for now but are important for further development of the app
 import tweepy
 import pandas
 import numpy as np
 import csv
 import ast
 import codecs
-from collections import Counter
-from sklearn import datasets
+import gmplot
+from geopy.geocoders import Nominatim
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
+from collections import Counter
+from sklearn import datasets
 
 #Access tokens
 access_key = 'place_key_here'
@@ -40,7 +43,7 @@ tweet_text = pandas.DataFrame(data=users_locs,
                      columns=['user', "location"])  #this saved my life. didn't know how to turn twitter search query into dataframe
 tweet_text
 
-df = pd.DataFrame(tweet_text)
+df = pandas.DataFrame(tweet_text)
 
 
 tweets = df
