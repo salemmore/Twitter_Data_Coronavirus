@@ -30,5 +30,6 @@ There is a correlation with some discrepancy in the number and location fo peopl
 * Twitter query parameters [here](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets)
 * Streaming Twitter Data for more recent results [here](https://www.dataquest.io/blog/streaming-data-python/) and [more](https://books.google.co.uk/books?id=YBKSDwAAQBAJ&pg=PA121&lpg=PA121&dq=python+mystreamer+class&source=bl&ots=bJcGzNzquN&sig=ACfU3U2WGfXAIvJmXXm4GvAIcsqCwas8Qw&hl=en&sa=X&ved=2ahUKEwiY1v69uPbnAhUBonEKHexABu0Q6AEwA3oECAkQAQ#v=onepage&q=python%20mystreamer%20class&f=false)
 * [More examples](https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/) relating to scraping 
+* Twitter Supported [Languages] (https://developer.twitter.com/en/docs/twitter-for-websites/twitter-for-websites-supported-languages/overview)
 
 
