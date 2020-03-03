@@ -1,7 +1,10 @@
 # Using just Twitter Data to track the spread of the Coronavirus (COVID-19)
-This application uses Twitter Data (i.e. specifically tweets and user profile or tweet location) to track the spread of the Coronavirus (Covid-19). Exactly 6000 tweets were analysed starting from December 2019 until the end of February 2020. There are a couple of limitations of this application, however, it is a good starting point for further and more detailed development. This is the resulting map:-
+This application uses Twitter Data (i.e. specifically tweets and user profile or tweet location) to track the spread of the Coronavirus (Covid-19). Exactly 6000 tweets were analysed starting from December 2019 until the end of February 2020. There are a couple of limitations of this application, however, it is a good starting point for further and more detailed development. These are the resulting maps:-
 
+Just the word "coronavirus"
 ![image](https://user-images.githubusercontent.com/17982289/75776178-6106fe00-5d4b-11ea-8332-059a39c292b8.png)
+With both the words "coronavirus" and "COVID-19"
+![image](https://user-images.githubusercontent.com/17982289/75809531-d3de9c00-5d80-11ea-9010-651e3fdeda9a.png)
 
 The number and location of confirmed cases are shown in this map produced by The Center for Systems Science and Engineering at Johns Hopkins University. For the latest results see https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html. 
 ![image](https://user-images.githubusercontent.com/17982289/75635617-6fe89600-5c0f-11ea-9859-1e2120c04cbf.png)
