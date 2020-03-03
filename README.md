@@ -21,7 +21,7 @@ The number and location of confirmed cases are shown in this map produced by The
 * The word "coronavirus" is actually a generic term and that is why you will still see tweets from people even before December 2019. So it is **not** conclusive to say that tweets after December 1st 2019 are all related to the COVID-19 outbreak and not any of the other coronaviruses such as [SARS-CoV (2003)](https://www.who.int/ith/diseases/sars/en/) and [MERS-CoV (2012)](https://www.who.int/news-room/fact-sheets/detail/middle-east-respiratory-syndrome-coronavirus-(mers-cov) ).
 
 ## Conclusion 
-There is a correlation with some descrepancy in the number and location fo people talking about the coronavirus and the actually cases/occurances of it. Now, it is important to note that we see this correlation predominately in the countries that have English as one of their main languages. If more languages such as Chinese, Portuguese, French, Russian, Arabic and so on where integrated into the application then places like China, Brazil, France, Russia and Iran will "light up"  respectively. 
+There is a correlation with some discrepancy in the number and location fo people talking about the coronavirus and the actually cases/occurances of it. Now, it is important to note that we see this correlation predominately in the countries that have English as one of their main languages. If more languages such as Chinese, Portuguese, French, Russian, Arabic and so on where integrated into the application then places like China, Brazil, France, Russia and Iran will "light up"  respectively. 
 
 ## Resources
 * For Mapping - [Python Geopy Library Documentation](https://readthedocs.org/projects/geopy/downloads/pdf/latest/)
