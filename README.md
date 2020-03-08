@@ -35,4 +35,5 @@ There is a correlation with some discrepancy in the number and location fo peopl
 * [More examples](https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/) relating to scraping 
 * Twitter Supported [Languages] (https://developer.twitter.com/en/docs/twitter-for-websites/twitter-for-websites-supported-languages/overview)
 
+*NB. This application was completed on 01/03/2020 and so this does not match the current state of the coronavirus i.e COVID-19 today. To get results for today simply change the "date" variable in the code.  
 
